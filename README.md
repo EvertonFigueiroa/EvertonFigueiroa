@@ -1,7 +1,7 @@
 <h1>Oi, eu sou o Everton Figueirôa 👋</h1>
 
 * 🔭 Hoje trabalho como Monitor de Teleatendimento 
-* 🌱 Estudando Python, CSS, HTML e SQL 
+* 🌱 Estudando Python, R, PostgreSQL e MySQL
 * 👯 Contate-me no e-mail: evertonbpg@gmail.com
 * 😄 Pronouns: ele/dele
 
@@ -11,13 +11,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonfigueiroa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Ever-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ever-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ever-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ever-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Ever-JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-            
-  
+  <img align="center" alt="Ever-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Ever-R" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>
+  <img align="center" alt="Ever-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
+  <img align="center" alt="Ever-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>         
           
  ##
  
