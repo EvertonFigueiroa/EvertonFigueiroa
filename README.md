@@ -1,6 +1,6 @@
 <h1>Oi, eu sou o Everton Figueirôa 👋</h1>
 
-* 🔭 Hoje trabalho como Monitor de Teleatendimento 
+* 🔭 Hoje trabalho como Analista de Prevenção à Fraudes 
 * 🌱 Estudando Python, R, PostgreSQL e MySQL
 * 👯 Contate-me no e-mail: evertonbpg@gmail.com
 * 😄 Pronouns: ele/dele
