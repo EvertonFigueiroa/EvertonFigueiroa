@@ -1,7 +1,7 @@
 <h1>Oi, eu sou o Everton Figueirôa 👋</h1>
 
 * 🔭 Hoje trabalho como Analista de Prevenção à Fraudes 
-* 🌱 Estudando Python, R, PostgreSQL e MySQL
+* 🌱 Estudando Python, R, PostgreSQL, Power BI e Excel
 * 👯 Contate-me no e-mail: evertonbpg@gmail.com
 * 😄 Pronouns: ele/dele
 
